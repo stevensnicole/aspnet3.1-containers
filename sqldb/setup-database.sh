@@ -1,7 +1,3 @@
-
-
-
-
 echo 'PLease wait while sql server 2017 is running'
 
 sleep 10s
